@@ -13,7 +13,7 @@ This program was written by me, with the help of ChatGPT (primarily helped with 
 ## How To Use
 Well it's fairly simple. 
 
-1. Install all the libraries from ´´´requirements.txt´´´.
-2. Import your translation. Use '-' as a seperator between German and Swedish (example in ´´´input.txt´´´).
-3. Modify your desired loops. In ´´´main.py´´´, change the ´´´loop_audio_file(combined_file, final_output_file, num_loops=x)´´´ to any number you want.
+1. Install all the libraries from ```requirements.txt```.
+2. Import your translation. Use '-' as a seperator between German and Swedish (example in ```input.txt```).
+3. Modify your desired loops. In ```main.py```, change the ```loop_audio_file(combined_file, final_output_file, num_loops=x)``` to any number you want.
 4. Make sure the audio file is to your liking. There's a chance that your characters aren't recognizable by the TTS engine or the Translator.
