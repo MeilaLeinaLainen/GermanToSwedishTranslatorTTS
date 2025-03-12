@@ -1,18 +1,1 @@
-1. Der Erzieher - förskollärare (manlig)
-2. Die Bankkauffrau - banktjänstekvinna
-3. Der Zahnarzt - tandläkare
-4. Der Computerfachmann - datortekniker
-5. Die Schriftstellerin - författare
-6. Der Koch - kock
-7. Der Krankenpfleger - sjukvårdare
-8. Die Verkäuferin - försäljare, expedit
-9. Die Krankenschwester - sjuksköterska
-10. Der Metzger - slaktare
-11. Der Fernsehmoderator - tv-hallåa, programledare
-12. Die Hebamme - barnmorska
-Ich werde - jag kommer att
-Du wirst - du kommer att
-Er/es/sie wird - han/den/hon kommer att
-Wir werden - vi kommer att
-Ihr werdet - ni kommer att
-Sie/sie werden - Ni/de kommer att
+wow this is so cool! - wow das ist so cool!
